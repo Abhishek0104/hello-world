@@ -1,2 +1,3 @@
 # hello-world
-Just starting up Github.
+Just starting up Github
+hope will have lot of fun.
